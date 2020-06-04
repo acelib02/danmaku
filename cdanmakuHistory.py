@@ -57,5 +57,5 @@ class cdanmakuHistory(cdanmaku.cdanmaku):
 
 if __name__ == '__main__':
     test = cdanmakuHistory()
-    test.setMaxday(15)
-    test.mainProcess('BV_youlike')
+    # test.setMaxday(15)
+    test.mainProcess('BV15K411W7HN')
